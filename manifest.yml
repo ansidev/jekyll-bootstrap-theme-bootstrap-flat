@@ -1,8 +1,8 @@
 ---
-name : bootstrap-v3
-website : http://ansidev.github.com/
-git_url : git://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-v3.git
-source_url : https://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-v3.git
+name : bootstrap-flat
+website : http://ansidev.github.io/
+git_url : git://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-flat.git
+source_url : https://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-flat.git
 author:
-  name : "Le Minh Tri"
-  website : http://ansidev.github.com/
+  name : ansidev
+  website : http://ansidev.github.io/
