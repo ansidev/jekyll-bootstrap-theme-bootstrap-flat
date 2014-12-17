@@ -5,4 +5,4 @@ This is blog theme compatible with Jekyll-Bootstrap
 Installation
 ------------
 
-    rake theme:install git="https://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-v3"
+    rake theme:install git="https://github.com/ansidev/jekyll-bootstrap-theme-bootstrap-flat.git"
